@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+The best apps i have developed:
+1. Hello World
+2. Test App
+3. Untitled1 Project
 <!--
 **tomaravi7/tomaravi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![tomaravi7's GitHub | Languages Over Time](https://stats.quine.sh/tomaravi7/languages-over-time?theme=light)](https://quine.sh)
+[![tomaravi7's GitHub | Languages Over Time](https://stats.quine.sh/tomaravi7/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tomaravi7)
